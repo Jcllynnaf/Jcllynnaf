@@ -8,10 +8,10 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=6a00ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&redirect=true)
 
 <h2 align="center">
-💻 Tools I Use :
+💻 OS I Use :
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ubuntu,kali,arch,bash,windows,vscode,replit,redhat,py,powershell,npm,nginx,linux,debian" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
   </a>
 </p>
