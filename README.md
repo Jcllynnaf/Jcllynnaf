@@ -20,6 +20,12 @@
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,htmx,c,cs,cpp,css,django,java,js,jquery,nestjs,nextjs,nodejs,notion,php,py,stackoverflow,solidjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,htmx,c,cs,cpp,css" />
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,django,java,js,jquery,nestjs" />
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,php,py,stackoverflow" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidjs,tailwind" />
   </a>
 </p>
