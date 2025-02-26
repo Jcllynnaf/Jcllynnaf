@@ -8,7 +8,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=6a00ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&redirect=true)
 
 <h2 align="center">
-💻 OS I use :
+💻 Operating System I use
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </p>
 <h2 align="center">
-📚 Languages ​​& Frameworks | Code In
+📚 Languages ​​& Frameworks - Code In
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,8 +24,10 @@
       <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,django,java,js,jquery,nestjs" />
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,php,py,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,php,npm,stackoverflow" />
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=solidjs,tailwind,ruby,swift" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,py,vscode,sublime" />
   </a>
 </p>
