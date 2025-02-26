@@ -13,6 +13,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
+      <h2 align="center">
+📊 Database
+</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
   </a>
 </p>
 <h2 align="center">
