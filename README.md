@@ -16,11 +16,11 @@
   </a>
 </p>
 <h2 align="center">
-📚 Languages ​​& Frameworks :
+📚 Languages ​​& Frameworks | Code In
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,htmx,c,cs,cpp,css" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,htmx,c,cs,cpp" />
       <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,django,java,js,jquery,nestjs" />
       <a href="https://skillicons.dev">
