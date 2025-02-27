@@ -7,9 +7,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=6a00ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&redirect=true)
 
-<h2 align="center">
+<h3 align="center">
 💻 Operating System I use
-</h2>
+</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
