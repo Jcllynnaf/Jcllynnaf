@@ -14,20 +14,22 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,debian" />
     <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,powershell,wsl" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,wsl,terminal,powershell,bash" />
 <h3 align="center">
 📚 Tech Stack - Database
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,htmx,c,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,c,cs,cpp" />
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,django,java,js,jquery,nestjs" />
+    <img src="https://skillicons.dev/icons?i=css,django,js,jquery,nestjs" />
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,php,npm,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,php,stackoverflow" />
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,solidjs,tailwind,ruby,swift,bash" />
+    <img src="https://skillicons.dev/icons?i=laravel,solidjs,tailwind,swift,docker" />
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,py,vscode,sublime" />
+    <img src="https://skillicons.dev/icons?i=htmx,java,npm,ruby,dotnet" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,py,vscode,sublime" />
   </a>
 </p>
