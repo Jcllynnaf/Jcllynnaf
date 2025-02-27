@@ -22,7 +22,7 @@
   </a>
 </p>
 <h3 align="center">
-📚 Languages ​​& Frameworks - Code In
+📚 Tech Stack
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
