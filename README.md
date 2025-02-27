@@ -18,7 +18,7 @@
 </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,mariadb,oracle" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,cassandra,oracle" />
   </a>
 </p>
 <h3 align="center">
