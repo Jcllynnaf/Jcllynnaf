@@ -12,9 +12,9 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,debian" />
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,cassandra" />
+    <img src="https://skillicons.dev/icons?i=linux,sqlite,mongodb,postgres,cassandra" />
 <h3 align="center">
 📚 Tech Stack
 </h3>
