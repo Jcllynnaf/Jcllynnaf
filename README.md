@@ -19,17 +19,11 @@
 📚 Tech Stack - Database
 </h3>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,c,cs,cpp" />
-      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,django,js,jquery,nestjs" />
-      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,php,stackoverflow" />
-    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,solidjs,tailwind,swift,docker" />
-    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=htmx,java,npm,ruby,dotnet" />
-    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,py,vscode,sublime" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,cassandra,sqlite,oracle,mongodb" />
   </a>
