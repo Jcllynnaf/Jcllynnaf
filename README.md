@@ -14,7 +14,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,debian" />
     <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,sqlite,mongodb,postgres,cassandra" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,wsl,postgres,cassandra" />
 <h3 align="center">
 📚 Tech Stack
 </h3>
