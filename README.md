@@ -31,7 +31,6 @@
     <img src="https://skillicons.dev/icons?i=htmx,java,npm,ruby,dotnet" />
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,py,vscode,sublime" />
-    <a href="https://go-skill-icons.vercel.app">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,cassandra,sqlite,oracle,mongodb" />
   </a>
 </p>
