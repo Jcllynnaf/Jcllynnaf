@@ -32,7 +32,7 @@
       <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,notion,php,npm,stackoverflow" />
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,solidjs,tailwind,ruby,swift,aiscript" />
+    <img src="https://skillicons.dev/icons?i=laravel,solidjs,tailwind,ruby,swift,bash" />
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,powershell,py,vscode,sublime" />
   </a>
