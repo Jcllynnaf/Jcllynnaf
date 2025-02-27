@@ -8,15 +8,15 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=6a00ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&redirect=true)
 
 <h3 align="center">
-💻 Operating System | Terminal
+   💻 Operating System - Terminal
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,debian" />
     <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,wsl,postgres,cassandra" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,terminal,wsl" />
 <h3 align="center">
-📚 Tech Stack
+📚 Tech Stack - Database
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
