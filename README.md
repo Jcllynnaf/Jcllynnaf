@@ -17,8 +17,8 @@
 🗃️ Database 
 </h3>
   <p align="center">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 <h3 align="center">
