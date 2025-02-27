@@ -13,17 +13,17 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
-      <h2 align="center">
+      <h3 align="center">
 🗃️ Database
-</h2>
+</h3>
   <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
   </a>
 </p>
-<h2 align="center">
+<h3 align="center">
 📚 Languages ​​& Frameworks - Code In
-</h2>
+</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,htmx,c,cs,cpp" />
