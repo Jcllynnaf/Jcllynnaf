@@ -14,6 +14,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,linux,debian" />
       <h3 align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,cassandra" />
 🗃️ Database 
 </h3>
   <p align="center">
