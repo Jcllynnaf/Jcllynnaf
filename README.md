@@ -32,6 +32,6 @@
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,py,vscode,sublime" />
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,vscode,sublime" />
+    <img src="https://skillicons.dev/icons?i=mysql,cassandra,sqlite" />
   </a>
 </p>
