@@ -12,13 +12,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=6a00ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&redirect=true)
 
 <h3 align="center">
-   💻 Operating System - Terminal
-</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,debian" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,wsl,terminal,powershell,bash" />
-<h3 align="center">
-📚 Tech Stack - Database
+📚 Tech Stack
 </h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,c,cs,cpp" />
@@ -28,5 +22,18 @@
     <img src="https://skillicons.dev/icons?i=htmx,java,npm,ruby,dotnet" />
     <img src="https://skillicons.dev/icons?i=git,github,py,vscode,sublime" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,cassandra,sqlite,oracle,mongodb" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=api,fastapi,discordbots,payload,deepseek" />
   </a>
 </p>
+
+<h3 align="center">
+   💻 OS - Terminal
+</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,debian" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,wsl,terminal,powershell,bash" />
+
+<h3 align="center">
+    💰 Crypto
+</h3>
+<p align="center">
