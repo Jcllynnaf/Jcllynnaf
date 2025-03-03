@@ -9,8 +9,6 @@
   <img src="https://github.com/Jcllynnaf/Jcllynnaf/blob/main/assets/profil.jpg" />
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=6a00ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aqhzimxpab575lp3zslzfl4rtm&redirect=true)
-
 <h3 align="center">
 📚 Tech Stack
 </h3>
