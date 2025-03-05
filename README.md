@@ -32,6 +32,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,wsl,terminal,powershell,bash" />
 
 <h3 align="center">
-    Others Later ..
+    In Development ..
 </h3>
 <p align="center">
