@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=ubuntu,kali,arch,windows,debian" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,wsl,terminal,powershell,bash" />
 
-<h3 align="center">
-    In Development ..
-</h3>
+<h2 align="center">
+    in development
+</h2>
 <p align="center">
