@@ -5,10 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hello, World!;user-root@heroinfather;Definitely+not a+Hacker!;I+Love+Open Source;function+findQuestion(42)" alt="Definitely not a Hacker!, Indonesian front-end developer, I Love Open Source"></a>
 </div>
 
-<p align="center">
-  <img src="https://github.com/Jcllynnaf/Jcllynnaf/blob/main/assets/profil.jpg" />
-</p>
-
 <h3 align="center">
 📚 Tech Stack
 </h3>
