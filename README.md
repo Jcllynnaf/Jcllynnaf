@@ -34,7 +34,6 @@ My Favorite Tools And Technologies
     </td>
     <td align="center" width="95">
         <img src="https://skillicons.dev/icons?i=kali" />
-      </a>
       <br>Kali
     </td>
     <td align="center" width="95">
