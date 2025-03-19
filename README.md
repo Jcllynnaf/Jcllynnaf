@@ -42,10 +42,6 @@ My Favorite Tools And Technologies
         <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="kali" />
       <br>Kali
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="debian" />
-      <br>Debian
-    </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
