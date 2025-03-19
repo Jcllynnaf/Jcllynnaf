@@ -33,7 +33,6 @@ My Favorite Tools And Technologies
       <br>Ubuntu
     </td>
     <td align="center" width="95">
-      <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=arch" width="45" height="45" alt="arch" />
       </a>
       <br>Arch
