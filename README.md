@@ -29,13 +29,13 @@ My Favorite Tools And Technologies
 <table>
   <tr>
     <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=ubuntu" />
+                <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kali" />
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=arch" />
        <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+                <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
   </tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
