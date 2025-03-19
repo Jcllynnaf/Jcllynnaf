@@ -13,7 +13,7 @@ Connect With Me
 
 <p align="center">
 <a href="https://t.me/whoiswhitehat"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=heroinfatherfsociety@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=heroinfatherfsociety@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14536?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://discordapp.com/users/741063339358289990"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://instagram.com/jcllynnaf"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a align="center"><a href="link" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
@@ -28,56 +28,56 @@ My Favorite Tools And Technologies
 
 <table>
   <tr>
-    <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="ubuntu" />
+    <td align="center" width="95">
+       <img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="ubuntu" />
       <br>Ubuntu
     </td>
-    <td align="center" width="96">
+    <td align="center" width="95">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="arch" />
+        <img src="https://skillicons.dev/icons?i=arch" width="45" height="45" alt="arch" />
       </a>
       <br>Arch
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="kali" />
+    <td align="center" width="95">
+        <img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="kali" />
       <br>Kali
     </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+       <td align="center" width="95">
+        <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="linux" />
       <br>Linux
     </td>
   </tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <td align="center" width="95">
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+    <td align="center"  width="95">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab" />
       <br>GitLab
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <td align="center"  width="95">
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+    <td align="center" width="95">
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
       <br>CSS
     </td>
    <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+    <td align="center" width="95">
+        <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
       <br>Redis
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <td align="center" width="95">
+        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
       <br>Postman
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+            <td align="center" width="95">
+        <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+    <td align="center" width="95">
+        <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="dart" />
       <br>Dart
     </td>
 </table>
