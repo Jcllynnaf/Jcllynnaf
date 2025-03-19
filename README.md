@@ -63,10 +63,6 @@ My Favorite Tools And Technologies
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
@@ -83,10 +79,6 @@ My Favorite Tools And Technologies
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
     </td>
 </table>
 
