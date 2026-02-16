@@ -1,0 +1,36 @@
+const DESKTOP_CONFIG = {
+		// 1. UKURAN & POSISI MENYATU (START) 🛡️
+		
+		// 👇 ATUR UKURAN DISINI (TERPISAH)
+		bladeBaseScale: 5,  // Skala PEDANG (1.0 = Normal)
+		swanBaseScale: 1.4,   // Skala ANGSA  (1.0 = Normal)
+
+		baseY: 0,             // Geser SATU SET (semuanya) naik/turun
+		
+		swanGap: 75,          // Jarak angsa dari tengah (Rapat/Renggang)
+		swanY_Offset: 10,     // Geser angsa vertikal biar pas di gagang pedang
+
+		// 2. ANIMASI BERPISAH (SCROLL) 💥
+		flyDistance: 600,     // Jarak terbang angsa saat pisah
+		bladeDrop: 150,       // Jarak turun pedang
+		
+		scrubSpeed: 1         
+	};
+
+	const MOBILE_CONFIG = {
+		// 1. UKURAN & POSISI MENYATU (HP) 📱
+		
+		// 👇 ATUR UKURAN HP DISINI
+		bladeBaseScale: 4,  
+		swanBaseScale: 1.03,   
+
+		baseY: -50,           
+		swanGap: 55,          
+		swanY_Offset: 10,     
+
+		// 2. ANIMASI BERPISAH (HP)
+		flyDistance: 200,     
+		bladeDrop: 100,       
+		
+		scrubSpeed: 0.8
+	};

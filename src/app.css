@@ -1,0 +1,116 @@
+/* =========================================
+   1. REGISTRASI FONT LOKAL
+   ========================================= */
+
+/* FONT 1: Untuk Header / Judul (Gaya Pedang/Tegas) */
+@font-face {
+    font-family: 'LocalHeader';
+    src: url('/fonts/font.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* FONT 2: Untuk Story / Cerita (Gaya Tulisan Tangan/Angsa) */
+@font-face {
+    font-family: 'LocalStory';
+    src: url('/fonts/font.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* =========================================
+   2. GLOBAL VARIABLES
+   ========================================= */
+:root {
+    /* Warna */
+    --c-void: #050505;
+    --c-blade: #e0e0e0;
+    --c-swan: #ffafcc;
+
+    /* Mapping Font Lokal ke Variable */
+    --f-header: 'LocalHeader', sans-serif; /* Font Judul */
+    --f-story: 'LocalStory', serif;        /* Font Cerita */
+    
+    /* Variable lama (untuk kompatibilitas Portfolio.svelte) */
+    --f-blade: 'LocalHeader', sans-serif;
+    --f-swan: 'LocalStory', cursive;
+}
+
+/* =========================================
+   3. BASE STYLES
+   ========================================= */
+body {
+    background-color: var(--c-void);
+    color: var(--c-blade);
+    margin: 0;
+    padding: 0;
+    
+    /* Default font */
+    font-family: var(--f-header); 
+    font-weight: 400;
+    overflow-x: hidden; /* Mencegah scroll ke samping */
+}
+
+/* =========================================
+   4. TYPOGRAPHY TWEAKS
+   ========================================= */
+
+/* Style khusus untuk Text Cerita (Story Text) */
+.story-text, .quote, .sub-header {
+    font-family: var(--f-story) !important; /* Pakai font tulisan tangan */
+    text-align: center; /* Rata Tengah Sesuai Request */
+    
+    /* Tweak agar tulisan tangan mudah dibaca */
+    font-size: 1.8rem !important; 
+    line-height: 1.6;
+    letter-spacing: 0.05em;
+    opacity: 0.9;
+    text-transform: none !important; /* Jangan kapital semua */
+    
+    /* Bayangan tipis agar text 'pop' di background gelap */
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+/* Style khusus Header Utama */
+h1, .hero-title {
+    font-family: var(--f-header);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+/* =========================================
+   5. SCROLLBAR (Dark Theme)
+   ========================================= */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: var(--c-void);
+}
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.global-title {
+    font-family: var(--f-header); /* Pastikan variabel font sudah benar */
+    font-size: 3.5rem;            /* Ukuran Desktop */
+    letter-spacing: 0 !important; /* INI KUNCINYA: 0 atau normal biar nyambung */
+    text-transform: none !important;
+    margin: 0 0 1rem 0;
+    text-align: center;
+    color: #fff;
+    line-height: 1.1;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.3);
+}
+
+/* Aturan Mobile yang Konsisten */
+@media (max-width: 768px) {
+    .global-title {
+        font-size: 2.2rem; }
+}
