@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { fade } from 'svelte/transition'; // Untuk animasi preloader hilang
-	import { gsap } from 'gsap';
+	import gsap from "gsap";
 	import { ScrollTrigger } from 'gsap/dist/ScrollTrigger';
 
 	// Import Components

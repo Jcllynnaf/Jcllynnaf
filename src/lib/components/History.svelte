@@ -1,6 +1,6 @@
 <script lang="ts">
     import { onMount } from 'svelte';
-    import { gsap } from "gsap";
+    import gsap from "gsap";
     import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
     
     // 1. IMPORT SUPABASE
