@@ -86,7 +86,7 @@
 			stagger: 0.15,
 			
 			onStart: () => { 
-				storyText = "hi i'm justin<br>this page is just to show<br>music from my favorite artists."; 
+				storyText = "hi i'm dikaaa<br>this page is just to show<br>music from my favorite artists."; 
 			}
 		}, "start+=0.2");
 
