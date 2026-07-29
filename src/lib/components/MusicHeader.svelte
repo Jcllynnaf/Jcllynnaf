@@ -8,7 +8,7 @@
         <span class="bar"></span>
         <span class="bar"></span>
     </div>
-    <span class="song-title">Wisp - Sword</span>
+    <span class="song-title">Wisp - Black Swan</span>
 </div>
 
 <style>
